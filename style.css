@@ -1,0 +1,113 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(228, 234, 236);
+    width: 100%;
+    padding: 10px;
+}
+
+
+header {
+        display: flex;
+        width: 30%;
+        padding: 20px;
+
+        margin-left: 40px;
+}
+
+ul{
+    position: absolute;
+    margin-top: 82px;
+    font-size: larger;
+    font-weight: 500;
+    word-spacing: 10px;
+    margin-left: 20px;
+
+}
+li{
+    letter-spacing: 1.5px;
+    list-style: square;
+}
+
+#one{
+    margin-top: 10px;
+}
+
+#two{
+    margin-top: 10px;
+}
+#three{
+    margin-top: 10px;
+}
+
+
+h1{
+    margin-bottom: 200px;
+}
+
+
+main{
+    border: 2px solid ;
+    padding: 20px;
+    width: 400px;
+    background-color: rgb(240, 239, 237);
+    height: 80%;
+    
+}
+
+
+div{
+    margin-left: 40px;
+}
+
+
+h2{
+    margin-left: 20px;
+}
+
+p{
+    font-size: small;
+    font-style: italic;
+}
+
+
+input{
+    padding: 10px;
+    border:2px solid black;
+    border-color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+
+button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 199px;
+    background-color: black;
+    color: white;
+
+}
+
+.two {
+    text-align: center;
+    margin-right: 60px;
+}
+a {
+    color: black;
+}
+
+img{
+    width: 350px;
+}
+
+
+
