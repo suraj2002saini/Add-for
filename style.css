@@ -11,46 +11,7 @@ body{
 }
 
 
-header {
-        display: flex;
-        width: 30%;
-        padding: 20px;
-
-        margin-left: 40px;
-}
-
-ul{
-    position: absolute;
-    margin-top: 82px;
-    font-size: larger;
-    font-weight: 500;
-    word-spacing: 10px;
-    margin-left: 20px;
-
-}
-li{
-    letter-spacing: 1.5px;
-    list-style: square;
-}
-
-#one{
-    margin-top: 10px;
-}
-
-#two{
-    margin-top: 10px;
-}
-#three{
-    margin-top: 10px;
-}
-
-
-h1{
-    margin-bottom: 200px;
-}
-
-
-main{
+main {
     border: 2px solid ;
     padding: 20px;
     width: 400px;
